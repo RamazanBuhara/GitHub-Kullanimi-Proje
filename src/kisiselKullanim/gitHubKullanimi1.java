@@ -6,6 +6,7 @@ public class gitHubKullanimi1 {
 
         System.out.println("Hello World");
         System.out.println("That's it");
+        System.out.println("thats it 2");
 
     }
 }
